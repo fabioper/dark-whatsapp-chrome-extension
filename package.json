@@ -1,0 +1,10 @@
+{
+  "name": "dark-whatsapp",
+  "version": "1.0.0",
+  "main": "content.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.0.1",
+    "eslint": "^7.0.0"
+  }
+}
